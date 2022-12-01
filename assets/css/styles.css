@@ -2,3 +2,8 @@
 li {
   margin-right: ($spacer * .25) !important;
 }
+
+#nav_bar ul li a.active-page
+{
+  background-color:blue;
+}
